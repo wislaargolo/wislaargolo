@@ -14,7 +14,11 @@ Sou desenvolvedora de software com experiência no desenvolvimento, evolução e
 
 Sou formada em **Tecnologia da Informação pela UFRN** e atualmente curso **Engenharia de Software**.
 
-Tenho interesse em desenvolvimento backend, arquitetura de software, sistemas distribuídos, testes e construção de software de fácil manutenção.
+Tenho interesse em:
+- desenvolvimento backend
+- arquitetura de software
+- sistemas distribuídos
+- testes e construção de software de fácil manutenção.
 
 ---
 
