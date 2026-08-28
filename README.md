@@ -90,9 +90,6 @@ Tenho interesse em:
   <a href="https://www.linkedin.com/in/wisla-argolo-8500022b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Wisla%20Argolo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/wislaargolo">
-    <img src="https://img.shields.io/badge/GitHub-wislaargolo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
