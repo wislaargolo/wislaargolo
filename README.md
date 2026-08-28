@@ -1,5 +1,3 @@
-<div align="center">
-
 # Wisla Argolo
 
 **Software Developer · Backend & Web Development**
