@@ -1,6 +1,6 @@
 # Wisla Argolo
 
-**Software Developer · Backend & Web Development**
+**Software Developer**
 
 Desenvolvimento de software com foco em aplicações web, APIs REST e qualidade de código.
 
