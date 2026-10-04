@@ -12,8 +12,6 @@ Desenvolvimento de software com foco em aplicações web, APIs REST e qualidade 
 
 Sou desenvolvedora de software com experiência no desenvolvimento, evolução e sustentação de aplicações web e APIs REST.
 
-Sou formada em **Tecnologia da Informação pela UFRN** e atualmente curso **Engenharia de Software**.
-
 Tenho interesse em:
 - desenvolvimento backend
 - arquitetura de software
