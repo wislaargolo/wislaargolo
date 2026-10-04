@@ -92,9 +92,3 @@ Tenho interesse em:
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>Building maintainable software, one iteration at a time.</i>
-</p>
-
